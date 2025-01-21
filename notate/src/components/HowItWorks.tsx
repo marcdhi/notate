@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { motion } from 'framer-motion';
 import { GitFork, Terminal, Key, Pin, BookOpen, Github, Sparkles } from 'lucide-react';
 
